@@ -1,4 +1,4 @@
-<img src="D:/Js1/images/logomacka130px.png" alt="logo">
+
 - 👋 Hi, I’m @Vmacka
 - 👀 I’m interested in HTML,CSS,
 - 🌱 I’m currently learning, stil lerning how to use a html, css, javascript
